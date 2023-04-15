@@ -1,0 +1,20 @@
+body{
+    color: black;
+    border: 0px solid black;
+    margin: 30px;
+    padding: 1em;
+}
+.header{
+
+padding: 30px;
+
+}
+.images{
+    color: black;
+
+}
+.Footer{
+    margin-left: 1px;
+    text-align: left;
+    padding-left: 10px;
+}
